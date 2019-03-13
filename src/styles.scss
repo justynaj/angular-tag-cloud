@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css?family=Catamaran");
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Catamaran", sans-serif;
+  font-size: 16px;
+  line-height: 1.4;
+  background-color: #f6fff7;
+  color: #2b602f;
+}
